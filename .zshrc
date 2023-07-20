@@ -40,5 +40,6 @@ zplug load
 alias ls="ls --color"
 alias l="lsd --date '+%d.%m.%Y %H:%M' -lah"
 alias logout="loginctl terminate-user $USER"
+alias history="history -i"
 
 export PATH=~/.cargo/bin:$PATH
