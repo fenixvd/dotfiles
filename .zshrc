@@ -10,7 +10,7 @@ fi
 source ~/.zplug/init.zsh
 
 # Theme
-zplug milon/arrow-zsh-theme, as:theme
+zplug agnoster/agnoster-zsh-theme, as:theme
 
 # Aliases
 zplug "robbyrussell/oh-my-zsh", as:plugin, use:"lib/*.zsh"
