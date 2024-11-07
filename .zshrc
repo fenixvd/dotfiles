@@ -10,7 +10,7 @@ fi
 source ~/.zplug/init.zsh
 
 # Theme
-zplug romkatv/powerlevel10k, as:theme
+zplug milon/arrow-zsh-theme, as:theme
 
 # Aliases
 zplug "robbyrussell/oh-my-zsh", as:plugin, use:"lib/*.zsh"
